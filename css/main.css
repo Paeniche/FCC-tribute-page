@@ -3,3 +3,13 @@ body {
 	text-align: center;
 	background-color: hsl(0,0%,96.1%);
 }
+
+#image{
+	max-width: 100%;
+}
+
+#tribute-info{
+	max-width: 500px;
+	margin: auto;
+	display: grid;
+}
