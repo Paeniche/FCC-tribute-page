@@ -13,6 +13,11 @@ body {
 	background-color: hsl(0,0%,96.1%);
 }
 
+#img-div{
+	display: block;
+	margin: auto;
+}
+
 #image{
 	display: block;
 	max-width: 100%;
