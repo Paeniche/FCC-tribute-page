@@ -14,7 +14,7 @@ body {
 }
 
 #img-div{
-	display: block;
+	display: inline-block;
 	margin: auto;
 }
 
